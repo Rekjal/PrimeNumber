@@ -1,0 +1,16 @@
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csprojAssemblyReference.cache
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+C:\Users\salimvay\Epicodus\PrimeNumber.Solution\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
